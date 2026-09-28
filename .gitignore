@@ -1,0 +1,10 @@
+# Archivos compilados de Java y compilación
+target/
+*.class
+
+# Configuración del IDE (IntelliJ)
+.idea/
+*.iml
+
+# Archivos del sistema (macOS)
+.DS_Store
