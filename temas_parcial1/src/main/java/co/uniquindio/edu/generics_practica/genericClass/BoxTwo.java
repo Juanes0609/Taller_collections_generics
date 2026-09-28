@@ -1,4 +1,4 @@
-package co.uniquindio.edu.generics.genericClass;
+package co.uniquindio.edu.generics_practica.genericClass;
 
 public class BoxTwo {
     private int element;

@@ -1,11 +1,9 @@
-package co.uniquindio.edu.generics;
+package co.uniquindio.edu.generics_practica;
 
-import co.uniquindio.edu.generics.genericClass.Box;
-import co.uniquindio.edu.generics.genericClass.BoxTwo;
-import co.uniquindio.edu.generics.genericClass.GenericBox;
-import co.uniquindio.edu.generics.genericClass.PairBox;
-
-import java.util.Map;
+import co.uniquindio.edu.generics_practica.genericClass.Box;
+import co.uniquindio.edu.generics_practica.genericClass.BoxTwo;
+import co.uniquindio.edu.generics_practica.genericClass.GenericBox;
+import co.uniquindio.edu.generics_practica.genericClass.PairBox;
 
 public class Main {
     static void main() {
